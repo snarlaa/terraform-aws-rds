@@ -354,6 +354,6 @@ Currently maintained by [these awesome contributors](https://github.com/terrafor
 Migrated from `terraform-community-modules/tf_aws_rds`, where it was maintained by [these awesome contributors](https://github.com/terraform-community-modules/tf_aws_rds/graphs/contributors).
 Module managed by [Anton Babenko](https://github.com/antonbabenko).
 
-## License
+## License###
 
 Apache 2 Licensed. See LICENSE for full details.
